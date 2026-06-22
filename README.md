@@ -1,0 +1,2 @@
+# x86-Assembly-from-Hello-World-to-Reverse-Engineering-A-Security-Focused-Course
+从零开始，18 课掌握 x86 汇编。涵盖寄存器、内存寻址、算术位运算、比较跳转、栈帧、函数调用约定、字符串操作、浮点运算、中断与系统调用。安全方向独家内容：Shellcode 编写、栈溢出原理、逆向分析入门。从 Hello World 到漏洞利用，安全研究者的必修课。Learn x86 Assembly from scratch in 18 lessons. Covers registers, memory addressing, stack frames, calling conventions, interrupts. Security-focused: Shellcode, buffer overflow, reverse engineering.
